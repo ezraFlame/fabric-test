@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "fabrictest",
   "version": "${version}",
 
-  "name": "Example Mod",
+  "name": "Fabric Test Mod",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "Me!"
+    "S. C. Arzehd"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -19,11 +19,11 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.scarzehd.fabrictest.FabricTest"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "fabrictest.mixins.json"
   ],
 
   "depends": {
