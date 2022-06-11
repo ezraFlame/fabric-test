@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "fabrictest:mithril_block",
+    "fabrictest:mithril_ore",
+    "fabrictest:speedy_block",
+    "fabrictest:mithril_slab",
+    "fabrictest:mithril_stairs"
+  ]
+}

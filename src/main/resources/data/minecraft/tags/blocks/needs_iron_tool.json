@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "fabrictest:mithril_block",
+    "fabrictest:mithril_ore"
+  ]
+}

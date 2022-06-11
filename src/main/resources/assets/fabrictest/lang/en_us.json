@@ -1,0 +1,59 @@
+{
+  "item.fabrictest.mithril_ingot": "Mithril Ingot",
+  "item.fabrictest.mithril_nugget": "Mithril Nugget",
+  "item.fabrictest.raw_mithril": "Raw Mithril",
+  "item.fabrictest.dowsing_rod": "Dowsing Rod",
+  "item.fabrictest.lilac_flower_bulb": "Lilac Flower Bulb",
+  "item.fabrictest.grape": "Grape",
+
+
+
+  "block.fabrictest.mithril_block": "Mithril Block",
+  "block.fabrictest.mithril_ore": "Mithril Ore",
+  "block.fabrictest.speedy_block": "Speedy Block",
+
+  "block.fabrictest.mithril_button": "Mithril Button",
+  "block.fabrictest.mithril_fence": "Mithril Fence",
+  "block.fabrictest.mithril_fence_gate": "Mithril Fence Gate",
+  "block.fabrictest.mithril_pressure_plate": "Mithril Pressure Plate",
+  "block.fabrictest.mithril_wall": "Mithril Wall",
+
+  "block.fabrictest.mithril_door": "Mithril Door",
+  "block.fabrictest.mithril_trapdoor": "Mithril Trapdoor",
+  "block.fabrictest.mithril_slab": "Mithril Slab",
+  "block.fabrictest.mithril_stairs": "Mithril Stairs",
+
+  "block.fabrictest.lilac_flower": "Lilac Flower",
+  "block.fabrictest.potted_lilac_flower": "Potted Lilac Flower",
+
+  "block.fabrictest.mithril_lamp": "Mithril Lamp",
+
+  "itemGroup.fabrictest.mithril": "Fabric Test Mithril Items",
+
+
+  "item.fabrictest.dowsing_rod.no_valuables": "No Valuables Found",
+  "item.fabrictest.dowsing_rod.tooltip.shift": "Right Click to find valuables",
+  "item.fabrictest.dowsing_rod.tooltip": "Press §eSHIFT§f for more information",
+
+  "item.fabrictest.mithril_sword": "Mithril Sword",
+  "item.fabrictest.mithril_shovel": "Mithril Shovel",
+  "item.fabrictest.mithril_hoe": "Mithril Hoe",
+  "item.fabrictest.mithril_axe": "Mithril Axe",
+  "item.fabrictest.mithril_pickaxe": "Mithril Pickaxe",
+
+  "item.fabrictest.mithril_helmet": "Mithril Helmet",
+  "item.fabrictest.mithril_chestplate": "Mithril Chestplate",
+  "item.fabrictest.mithril_leggings": "Mithril Leggings",
+  "item.fabrictest.mithril_boots": "Mithril Boots",
+
+  "item.fabrictest.mithril_dust": "Mithril Dust",
+
+  "tooltip.fabrictest.mithril_block": "A magical block.",
+  "tooltip.fabrictest.mithril_ore": "A magical ore.",
+  "tooltip.fabrictest.speedy_block": "Zoom zoom!",
+  "tooltip.fabrictest.mithril_button": "Boop!",
+  "tooltip.fabrictest.mithril_fence": "If you wanted privacy, you should've crafted a wall.",
+  "tooltip.fabrictest.mithril_fence_gate": "",
+  "tooltip.fabrictest.mithril_pressure_plate": "Indiana Jones wouldn't step on this, so you shouldn't either.",
+  "tooltip.fabrictest.mithril_wall": "Keep your enemies out and your friends in!"
+}

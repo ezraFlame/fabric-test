@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_rh",
+  "textures": {
+    "top": "fabrictest:block/mithril_door_top",
+    "bottom": "fabrictest:block/mithril_door_bottom"
+  }
+}

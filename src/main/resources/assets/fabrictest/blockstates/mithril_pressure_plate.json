@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "fabrictest:block/mithril_pressure_plate" },
+    "powered=true": { "model": "fabrictest:block/mithril_pressure_plate_down" }
+  }
+}

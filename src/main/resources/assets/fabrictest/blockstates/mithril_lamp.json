@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "clicked=false": { "model": "fabrictest:block/mithril_lamp_off" },
+    "clicked=true": { "model": "fabrictest:block/mithril_lamp_on" }
+  }
+}

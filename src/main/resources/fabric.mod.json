@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "com.scarzehd.fabrictest.FabricTest"
+    ],
+    "client": [
+      "com.scarzehd.fabrictest.FabricTestClient"
     ]
   },
   "mixins": [
